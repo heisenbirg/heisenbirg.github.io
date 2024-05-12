@@ -36,7 +36,7 @@ const CONFIG = {
           description:
             'Windows app for securing files with single password and multiple password encryption. This app includes ways of encrypting decrypting and deleting files securely',
           imageUrl:
-          './src/assets/fsd.png',
+          'https://github.com/heisenbirg/heisenbirg.github.io/blob/main/src/assets/fsd.png',
           link: 'https://apps.microsoft.com/detail/9pb3b81f8p8d?hl=en-US&gl=US',
         },
         {
