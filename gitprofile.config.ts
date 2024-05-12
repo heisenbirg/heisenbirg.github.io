@@ -1,7 +1,7 @@
 // gitprofile.config.ts
 const CONFIG = {
   github: {
-    username: 'hizinberg', // Your GitHub org/user name. (This is the only required config)
+    username: 'heisenbirg', // Your GitHub org/user name. (This is the only required config)
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
